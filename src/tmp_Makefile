@@ -1,0 +1,10 @@
+COMPILER=gcc
+
+main: main.o printer.o validator.o
+	$(COMPILER) main.o printer.o validator.o -o main
+
+%.o: %.c
+	$(COMPILER) -c $< -o $@
+
+clean:
+	rm -rf *.o main

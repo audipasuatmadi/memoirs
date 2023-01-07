@@ -1,0 +1,360 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<b:Sources xmlns:b="http://schemas.openxmlformats.org/officeDocument/2006/bibliography" xmlns="http://schemas.openxmlformats.org/officeDocument/2006/bibliography">
+  <b:Source>
+    <b:SourceType>Journal Article</b:SourceType>
+    <b:Title>Associative Knowledge Graph Using Fuzzy Clustering and Min-Max Normalization in Video
+      Contents</b:Title>
+    <b:Year>2021</b:Year>
+    <b:StandardNumber>21693536</b:StandardNumber>
+    <b:Publisher>Institute of Electrical and Electronics Engineers Inc.</b:Publisher>
+    <b:Pages>74802-74816</b:Pages>
+    <b:JournalName>IEEE Access</b:JournalName>
+    <b:Volume>9</b:Volume>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Hyun Jin</b:First>
+            <b:Last>Kim</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Ji Won</b:First>
+            <b:Last>Baek</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Kyungyong</b:First>
+            <b:Last>Chung</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:Tag>
+      associative-knowledge-graph-using-fuzzy-clustering-and-min-max-normalization-in-video-contents</b:Tag>
+  </b:Source>
+  <b:Source>
+    <b:SourceType>Journal Article</b:SourceType>
+    <b:Title>Comparison of Min-Max normalization and Z-Score Normalization in the K-nearest neighbor
+      (kNN) Algorithm to Test the Accuracy of Types of Breast Cancer</b:Title>
+    <b:Year>2021</b:Year>
+    <b:StandardNumber>2579-7069</b:StandardNumber>
+    <b:Pages>13-20</b:Pages>
+    <b:JournalName>International Journal of Informatics and Information System</b:JournalName>
+    <b:Volume>4</b:Volume>
+    <b:Issue>1</b:Issue>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Henderi</b:First>
+            <b:Last>Henderi</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Tri</b:First>
+            <b:Last>Wahyuningsih ​</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Efana</b:First>
+            <b:Last>Rahwanto</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:URL>http:&#x2F;&#x2F;archive.ics.uci.edu&#x2F;ml.</b:URL>
+    <b:Tag>
+      comparison-of-min-max-normalization-and-z-score-normalization-in-the-k-nearest-neighbor-(knn)-algorithm-to-test-the-accuracy-of-types-of-breast-cancer</b:Tag>
+  </b:Source>
+  <b:Source>
+    <b:SourceType>Journal Article</b:SourceType>
+    <b:Title>Data Normalization using Median &amp; Median Absolute Deviation (MMAD) based Z-Score
+      for Robust Predictions vs. Min-Max Normalization</b:Title>
+    <b:Year>2019</b:Year>
+    <b:Pages>39-44</b:Pages>
+    <b:JournalName>London Journals Press</b:JournalName>
+    <b:Volume>19</b:Volume>
+    <b:Issue>4</b:Issue>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Sunil</b:First>
+            <b:Last>Kappal</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:Tag>
+      data-normalization-using-median-&amp;-median-absolute-deviation-(mmad)-based-z-score-for-robust-predictions-vs.-min-max-normalization</b:Tag>
+  </b:Source>
+  <b:Source>
+    <b:SourceType>Journal Article</b:SourceType>
+    <b:Title>Impact of Data Normalization on Classification Model Accuracy</b:Title>
+    <b:Year>2019</b:Year>
+    <b:Month>9</b:Month>
+    <b:Publisher>Walter de Gruyter GmbH</b:Publisher>
+    <b:Pages>79-84</b:Pages>
+    <b:JournalName>Research Papers Faculty of Materials Science and Technology Slovak University of
+      Technology</b:JournalName>
+    <b:Volume>27</b:Volume>
+    <b:Issue>45</b:Issue>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Dmitrii</b:First>
+            <b:Last>Borkin</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Andrea</b:First>
+            <b:Last>Némethová</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>German</b:First>
+            <b:Last>Michaľčonok</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Konstantin</b:First>
+            <b:Last>Maiorov</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:Tag>impact-of-data-normalization-on-classification-model-accuracy</b:Tag>
+  </b:Source>
+  <b:Source>
+    <b:SourceType>Journal Article</b:SourceType>
+    <b:Title>Data in Action: Data-Driven Decision Making and Predictive Analytics in U.S.
+      Manufacturing</b:Title>
+    <b:Year>2019</b:Year>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Erik</b:First>
+            <b:Last>Brynjolfsson</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Kristina</b:First>
+            <b:Last>Mcelheran</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:URL>https:&#x2F;&#x2F;www.researchgate.net&#x2F;publication&#x2F;334549035</b:URL>
+    <b:Tag>
+      data-in-action:-data-driven-decision-making-and-predictive-analytics-in-u.s.-manufacturing</b:Tag>
+  </b:Source>
+  <b:Source>
+    <b:SourceType>Journal Article</b:SourceType>
+    <b:Title>The Endogenous African Business: Why and How It Is Different, Why It Is Emerging Now
+      and Why It Matters</b:Title>
+    <b:Year>2019</b:Year>
+    <b:Month>4</b:Month>
+    <b:StandardNumber>15229076</b:StandardNumber>
+    <b:Publisher>Routledge</b:Publisher>
+    <b:Pages>195-205</b:Pages>
+    <b:JournalName>Journal of African Business</b:JournalName>
+    <b:Volume>20</b:Volume>
+    <b:Issue>2</b:Issue>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Paul T.M.</b:First>
+            <b:Last>Ingenbleek</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:Tag>
+      the-endogenous-african-business:-why-and-how-it-is-different,-why-it-is-emerging-now-and-why-it-matters</b:Tag>
+  </b:Source>
+  <b:Source>
+    <b:SourceType>Conference Proceedings</b:SourceType>
+    <b:Title>The effect of age structure of the population on economic growth in Iran using the ARDL
+      approach</b:Title>
+    <b:Year>2018</b:Year>
+    <b:Month>7</b:Month>
+    <b:StandardNumber>9780735416901</b:StandardNumber>
+    <b:StandardNumber>15517616</b:StandardNumber>
+    <b:Publisher>American Institute of Physics Inc.</b:Publisher>
+    <b:JournalName>AIP Conference Proceedings</b:JournalName>
+    <b:Volume>1978</b:Volume>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Neda</b:First>
+            <b:Last>Miri</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Majid</b:First>
+            <b:Last>Maddah</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:Tag>
+      the-effect-of-age-structure-of-the-population-on-economic-growth-in-iran-using-the-ardl-approach</b:Tag>
+  </b:Source>
+  <b:Source>
+    <b:SourceType>Journal Article</b:SourceType>
+    <b:Title>How important are the Government Expenditure and Bank Lending in
+      Promoting Regional Economic Growth?</b:Title>
+    <b:Year>2019</b:Year>
+    <b:Month>3</b:Month>
+    <b:StandardNumber>2617-7269</b:StandardNumber>
+    <b:JournalName>East African Scholars Publisher, Kenya</b:JournalName>
+    <b:Volume>2</b:Volume>
+    <b:Issue>3</b:Issue>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Amna</b:First>
+            <b:Last>Marisa</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>M</b:First>
+            <b:Last>Shabri</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Abd</b:First>
+            <b:Last>Majid</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Taufiq</b:First>
+            <b:Last>Dawood</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:URL>https:&#x2F;&#x2F;www.researchgate.net&#x2F;publication&#x2F;332092556</b:URL>
+    <b:Tag>
+      how-important-are-the-government-expenditure-and-bank-lending-in-promoting-regional-economic-growth?</b:Tag>
+  </b:Source>
+  <b:Source>
+    <b:SourceType>Report</b:SourceType>
+    <b:Title>Access to Small Business Finance</b:Title>
+    <b:Year>2018</b:Year>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Ellis</b:First>
+            <b:Last>Connolly</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Joel</b:First>
+            <b:Last>Bank</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:Tag>access-to-small-business-finance</b:Tag>
+  </b:Source>
+  <b:Source>
+    <b:SourceType>Journal Article</b:SourceType>
+    <b:Title>Availability of human capital and the development of the public infrastructure in the
+      context of business activities of SMES</b:Title>
+    <b:Year>2020</b:Year>
+    <b:StandardNumber>15839583</b:StandardNumber>
+    <b:Publisher>Bucharest University of Economic Studies Publishing House</b:Publisher>
+    <b:Pages>27-44</b:Pages>
+    <b:JournalName>Administratie si Management Public</b:JournalName>
+    <b:Volume>2020</b:Volume>
+    <b:Issue>34</b:Issue>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Jaroslav</b:First>
+            <b:Last>Belas</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Iveta</b:First>
+            <b:Last>Kmecova</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Martin</b:First>
+            <b:Last>Cepel</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:Tag>
+      availability-of-human-capital-and-the-development-of-the-public-infrastructure-in-the-context-of-business-activities-of-smes</b:Tag>
+  </b:Source>
+  <b:Source>
+    <b:SourceType>Journal Article</b:SourceType>
+    <b:Title>Public Infrastructure and Regional growth: Evidence from Turkey</b:Title>
+    <b:Year>2017</b:Year>
+    <b:StandardNumber>1567-7141</b:StandardNumber>
+    <b:Pages>495-507</b:Pages>
+    <b:JournalName>EJTIR Issue</b:JournalName>
+    <b:Volume>17</b:Volume>
+    <b:Issue>4</b:Issue>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Zeynep</b:First>
+            <b:Last>Elburz</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Peter</b:First>
+            <b:Last>Nijkamp</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Eric</b:First>
+            <b:Last>Pels</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:Tag>public-infrastructure-and-regional-growth:-evidence-from-turkey</b:Tag>
+  </b:Source>
+</b:Sources>
