@@ -92,8 +92,8 @@ int main(int argc, char **argv) {
     }
 
     char *buffer = (char*)malloc(sizeof(char) * BUFSIZE);
-    char *writeBuffer = (char*)malloc(sizeof(char) * BUFSIZE);
-    char *writeBufferStart = writeBuffer;
+    char *writeBuffer;
+    char *writeBufferStart;
     int isSourceType = 0;
 
     char *iterator;
@@ -131,7 +131,7 @@ int main(int argc, char **argv) {
             writeBuffer = writeBuffer + 1;
             iterator = iterator + 1;
         }
-        writeBuffer = writeBuffer + 1;
+        *writeBuffer = '\0';
         fprintf(tfp, "    %s%s%s\n", "<b:SourceType>", writeBufferStart, "</b:SourceType>");   
         writeBuffer = writeBufferStart;
         free(writeBufferStart);     
